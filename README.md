@@ -1,5 +1,5 @@
 ### Pour démarrer l'application: 
-#### sbt run 
+Ouvrir le terminal et tapez  ``` sbt run ```
 
 et aprés :
 ```
