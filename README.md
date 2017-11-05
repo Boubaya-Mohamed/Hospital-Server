@@ -1,5 +1,5 @@
 ### Pour démarrer l'application: 
-sbt run 
+#### sbt run 
 
 et aprés :
 ```
@@ -15,7 +15,7 @@ GET     http://localhost:9000/listfichier/92010201867
 ```
 À l'aide d'ID patient, vous pourrez récupérer tous les résultats de patient d'Id 92010201867 . 
 
-##Lecture des résultats correspondants
+## Lecture des résultats correspondants
 ```
 GET     http://localhost:9000/listfichier
 ```
