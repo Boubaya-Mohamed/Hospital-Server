@@ -1,0 +1,10 @@
+# Routes
+# This file defines all application routes (Higher priority routes first)
+# ~~~~
+
+# Default path will just redirect to the computer list
+GET     /                           controllers.Aplication.index
+GET     /listfichier                 controllers.Aplication.listFichier
+GET     /listfichier/:idPatient       controllers.Aplication.findPatientSById(idPatient:String)
+
+GET       /list/:page controllers.Aplication.list(page:Int)
