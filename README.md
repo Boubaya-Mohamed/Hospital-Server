@@ -26,14 +26,14 @@ Il s'agit d'un super serveur de résultat patient en Play2 Scala pour récupére
   }
 }
 ```
-### Pour démarrer Server: 
-Ouvrir le terminal et tapez  ``` sbt run ```
+### Pour démarrer server: 
+Ouvrez le terminal et tapez  ``` sbt run ```
 
-et aprés :
+et après :
 ```
  http://localhost:9000
 ```
-* Pour utiliser l'API REST: on utlise Postman ou commande ```curl``` or dans cette application or il s'agit que des methodes "GET" donc vous pouvez utiliser n'importe quel browser 
+* Pour utiliser l'API REST: on utlise Postman ou commande ```curl``` ,or dans cette application il ne s'agit que des methodes "GET" donc vous pouvez utiliser n'importe quel browser. 
 
 ##  Lecture de mes résultats (Patients)
 ```
@@ -45,7 +45,7 @@ GET     http://localhost:9000/listfichier/92010201867
 ```
 GET     http://localhost:9000/listfichier
 ```
-vous pouvez récupérer tous les résultats des patients .
+Vous pouvez récupérer tous les résultats des patients .
 
 ## Pagination
 
@@ -53,11 +53,11 @@ vous pouvez récupérer tous les résultats des patients .
 GET    http://localhost:9000/list/1
 
 ```
-Vous pouvez récupérer tous les résultats de trois premiers patients et si vous changez 1 par 2 vous pourriez récupérer tous les résultats de 4e, 5e, 6e patient.-
+Vous pouvez récupérer tous les résultats des trois premiers patients et si vous changez 1 par 2 vous pouvez récupérer tous les résultats de 4e, 5e, 6e patient.-
 
 ##  Test unitaire
 
-je  n'ai pas eu le temps j'ai été très occupé par mes études (c'est la periode des examens)
+Je  n'ai pas eu le temps j'ai été très occupé par mes études (c'est la periode des examens).
 
 ## Question
 
