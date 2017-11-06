@@ -1,5 +1,5 @@
 
-# Hospital-app
+# Hospital-server
 
 Il s'agit d'un super serveur de résultat patient en Play2 Scala pour récupérer ce format de résultat.
 ```
