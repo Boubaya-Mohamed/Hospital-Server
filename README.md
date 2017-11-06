@@ -26,7 +26,7 @@ Il s'agit d'un super serveur de résultat patient en Play2 Scala pour récupére
   }
 }
 ```
-### Pour démarrer l'application: 
+### Pour démarrer Server: 
 Ouvrir le terminal et tapez  ``` sbt run ```
 
 et aprés :
