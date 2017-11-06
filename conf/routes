@@ -7,4 +7,4 @@ GET     /                           controllers.Application.index
 GET     /listfichier                 controllers.Application.listFichier
 GET     /listfichier/:idPatient       controllers.Application.findPatientSById(idPatient:String)
 
-GET       /list/:page controllers.Aplication.list(page:Int)
+GET       /list/:page controllers.Application.list(page:Int)
