@@ -1,7 +1,7 @@
 
 # Hospital-app
 
-il s'agit d'un super serveur de résultat patient en Play2 Scala pour récupérer ce format de résultat.
+Il s'agit d'un super serveur de résultat patient en Play2 Scala pour récupérer ce format de résultat.
 ```
 {
   "msg_type": "inr_simple",
