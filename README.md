@@ -5,7 +5,7 @@ et aprés :
 ```
  http://localhost:9000
 ```
-* Pour utiliser l'API REST: on utlise Postman ou commande curl or dans cette application or il s'agit que des methodes "GET" donc vous pouvez utiliser n'importe quel browser 
+* Pour utiliser l'API REST: on utlise Postman ou commande ```curl``` or dans cette application or il s'agit que des methodes "GET" donc vous pouvez utiliser n'importe quel browser 
 
 ##  Lecture de mes résultats (Patients)
 ```
